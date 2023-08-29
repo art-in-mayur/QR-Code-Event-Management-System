@@ -70,6 +70,6 @@ Contributions to this project are welcome! Feel free to fork the repository, mak
 
 ## License
 
-This project is licensed under the MIT License. For details, please see the [LICENSE](LICENSE) file.
+This project is licensed under the MIT License.
 
 ---
