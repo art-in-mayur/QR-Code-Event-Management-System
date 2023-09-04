@@ -25,26 +25,7 @@ The QR Code Event Management System streamlines event registration, check-in, an
 
 - **Attendance Tracking**: Keep track of attendees' check-in and check-out times to monitor event participation.
 
-- **Intuitive Interface**: Enjoy a user-friendly interface that displays real-time feedback on QR code scanning and attendance status.
 
-## Getting Started
-
-1. **Installation**:
-   - Make sure you have Python installed (version 3.6 or higher).
-   - Install required libraries using the following command:
-     ```
-     pip install opencv-python pyzbar
-     ```
-
-2. **Database Setup**:
-   - Create a SQLite database named `attendees.db` in the project directory to store attendee information.
-
-3. **Running the Program**:
-   - Run the program by executing the `main.py` file:
-     ```
-     python main.py
-     ```
-   - The program will initiate the webcam feed and start scanning QR codes.
 
 ## Usage
 
@@ -63,10 +44,6 @@ The QR Code Event Management System streamlines event registration, check-in, an
 
 5. **Data Analysis**:
    - After the event, organizers can access attendance data to analyze participation trends and make informed decisions for future events.
-
-## Contributing
-
-Contributions to this project are welcome! Feel free to fork the repository, make enhancements, and submit pull requests. Please adhere to the project's code of conduct.
 
 ## License
 
